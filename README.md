@@ -1,97 +1,84 @@
 <div align="center">
-  <img src="assets/vaaranan-hero.svg" alt="Vaaranan J cybersecurity profile banner" width="100%" />
+  <img src="assets/cyberpunk-hero.svg" alt="Vaaranan J — Cybersecurity Enthusiast. Cyberpunk security command center banner." width="100%" />
 </div>
 
-# Vaaranan J
+<h3 align="center">Securing systems. Investigating threats. Building resilient networks.</h3>
 
-> Securing systems. Investigating threats. Building resilient networks.
+<p align="center">
+  <a href="https://vaaranan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B" alt="Portfolio" /></a>
+  <a href="https://github.com/Vaaranan-Jeyashankar"><img src="https://img.shields.io/badge/GITHUB-FF1744?style=for-the-badge&labelColor=03060B" alt="GitHub" /></a>
+</p>
 
-I’m Vaaranan J, a cybersecurity-focused IT undergraduate and aspiring SOC Analyst with a strong interest in blue team defense, network security, threat detection, and secure application development. I enjoy building practical security projects that translate complex digital defense concepts into clear, usable solutions.
+---
 
-## About Me
+## `> whoami`
 
-I am a BSc (Hons) in Information Technology specialising in Cyber Security, with a focus on SOC operations, cyber investigations, endpoint and network hardening, and secure systems design. My work sits at the intersection of cybersecurity, engineering, and user-focused design, with a consistent interest in building tools and experiences that improve resilience and awareness.
+I'm **Vaaranan J**, a cybersecurity-focused IT undergraduate — BSc (Hons) in Information Technology specialising in Cyber Security — and an aspiring **SOC Analyst**. I focus on blue team defense, network security, threat detection and secure application development, and I build practical security projects that make complex defense concepts clear and usable.
 
-I am especially drawn to:
+Open to **internship and collaboration** opportunities.
 
-- Blue Team Security and SOC workflows
-- Threat detection and response fundamentals
-- Network security and defensive architecture
-- Secure web development and DevSecOps thinking
-- Hands-on cybersecurity projects and awareness-driven learning
+<div align="center">
+  <img src="assets/jarvis-avatar.svg" alt="Decorative holographic AI assistant greeting visitors. Artwork only, not a functional assistant." width="100%" />
+</div>
 
-I’m currently building my practical portfolio through security-focused projects, defensive tooling concepts, and cybersecurity awareness work, and I’m open to internship and collaboration opportunities.
+## `> ./dashboard --profile`
 
-## Featured Projects
+> Profile focus areas. These are interests and learning areas, not live monitoring.
 
-| Project | Purpose | Technologies | Links |
-| --- | --- | --- | --- |
-| [Cybersecurity Awareness Quiz](https://github.com/Vaaranan-Jeyashankar/cyber-quiz) | Interactive quiz app designed to test cyber awareness across topics such as phishing, safe practices, and digital defense fundamentals. | Next.js, React, TypeScript | [GitHub](https://github.com/Vaaranan-Jeyashankar/cyber-quiz) · [Live Demo](https://cyber-quiz-zeta.vercel.app) |
-| [Vaaranan Portfolio / Security Showcase](https://github.com/Vaaranan-Jeyashankar/vaaranan) | Personal portfolio and project showcase highlighting cybersecurity, malware-detection themes, digital security awareness, and practical defensive concepts. | Next.js, React, TypeScript, Tailwind CSS, Framer Motion | [GitHub](https://github.com/Vaaranan-Jeyashankar/vaaranan) · [Live Demo](https://vaaranan.vercel.app) |
+| 🛡️ Security Operations | 🎯 Threat Detection | 🌐 Network Security |
+| :-- | :-- | :-- |
+| SOC workflows and blue team defense | Detection and response fundamentals | Defensive architecture, segmentation, firewalls and ACLs |
+| **🗡️ Ethical Hacking** | **🔍 Digital Forensics** | **📚 Learning & Research** |
+| Vulnerability assessment fundamentals | Digital investigation patterns | Secure design, phishing and web security awareness |
 
-## Skills and Technologies
+## `> ls ./skills`
 
-### Cybersecurity
+| Category | Technologies |
+| :-- | :-- |
+| **Programming Languages** | Python · TypeScript · JavaScript |
+| **Networking** | Cisco Packet Tracer · Firewall Configuration · ACLs · Network Segmentation · VPN Security · Network Access Control |
+| **Security Tools** | Semgrep · Trivy · Gitleaks · npm audit |
+| **Operating Systems** | Linux |
+| **SIEM & Log Analysis** | Threat monitoring and investigation concepts (learning) |
+| **DevSecOps** | Git · GitHub · GitHub Actions · Docker |
+| **Web Development** | Next.js · React · Node.js · Tailwind CSS · Framer Motion |
 
-- Blue Team Security
-- SOC Operations
-- Threat Detection
-- Vulnerability Assessment
-- Ethical Hacking
-- Digital Forensics
-- Network Security
+## `> ./projects --list`
 
-### Network Security
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Cisco Packet Tracer
-- Firewall Configuration
-- ACLs
-- Network Segmentation
-- VPN Security
-- Network Access Control
+### 🧠 Cybersecurity Awareness Quiz
+Interactive quiz app that tests cyber awareness across phishing, safe practices and digital defense fundamentals.
 
-### Security Tools and DevSecOps
+`Next.js` `React` `TypeScript`
 
-- Git
-- GitHub
-- GitHub Actions
-- Semgrep
-- Trivy
-- Gitleaks
-- npm audit
-- Linux
-- Docker
+[Repository](https://github.com/Vaaranan-Jeyashankar/cyber-quiz) · [Live demo](https://cyber-quiz-zeta.vercel.app)
 
-### Development
+</td>
+<td width="50%" valign="top">
 
-- Next.js
-- React
-- TypeScript
-- JavaScript
-- Node.js
-- Tailwind CSS
-- Python
+### 🛰️ Portfolio / Security Showcase
+Personal portfolio highlighting cybersecurity, malware-detection themes, digital security awareness and defensive concepts.
 
-## Learning and Professional Development
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-I’m actively strengthening my foundation across practical security defense, secure web practices, and cyber awareness topics through projects and self-directed learning. This includes exploring:
+[Repository](https://github.com/Vaaranan-Jeyashankar/vaaranan) · [Live demo](https://vaaranan.vercel.app)
 
-- Defensive security workflows and blue team concepts
-- Phishing and web security awareness projects
-- Threat monitoring and digital investigation patterns
-- Secure design practices for modern applications
-- Project-based learning in cybersecurity and network defense
+</td>
+</tr>
+</table>
 
-## GitHub Activity
+## `> git log --graph`
 
-A focused profile and project history is available on my GitHub:
+<p align="center">
+  <img src="https://ghchart.rshah.org/00E5FF/Vaaranan-Jeyashankar" alt="Vaaranan's real GitHub contribution chart" width="100%" />
+</p>
 
-- [GitHub Profile](https://github.com/Vaaranan-Jeyashankar)
-- [Portfolio Demo](https://vaaranan.vercel.app)
-
-## Professional Profiles
+## `> ./connect`
 
 - [GitHub](https://github.com/Vaaranan-Jeyashankar)
 - [Portfolio](https://vaaranan.vercel.app)
 
-<img src="assets/vaaranan-footer.svg" alt="Vaaranan footer banner" width="100%" />
+<img src="assets/cyberpunk-footer.svg" alt="End of transmission" width="100%" />
