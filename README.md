@@ -1,7 +1,6 @@
 <p align="center">
-<
+
   <img src="./assets/cyberpunk-hero.svg" alt="Vaaranan Jeyashankar — Cybersecurity Undergraduate" width="100%" />
-=======
   <a href="https://vaaranan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B" alt="Portfolio" /></a>
 
 </p>
