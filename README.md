@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://vaaranan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B" alt="Portfolio" /></a>
-  <a href="https://github.com/Vaaranan-Jeyashankar"><img src="https://img.shields.io/badge/GITHUB-FF1744?style=for-the-badge&labelColor=03060B" alt="GitHub" /></a>
 </p>
 
 ---
