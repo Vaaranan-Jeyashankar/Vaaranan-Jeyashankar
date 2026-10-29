@@ -1,9 +1,9 @@
 <p align="center">
-<<<<<<< HEAD
+<
   <img src="./assets/cyberpunk-hero.svg" alt="Vaaranan Jeyashankar — Cybersecurity Undergraduate" width="100%" />
 =======
   <a href="https://vaaranan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B" alt="Portfolio" /></a>
->>>>>>> 16e47266bd1001e27ff5c52667597c3edfbcd5c6
+
 </p>
 
 ## `01 // OPERATOR PROFILE`
