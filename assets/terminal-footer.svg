@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="vjFootTitle">
+<title id="vjFootTitle">Session end — stay curious, stay secure</title>
+<defs><linearGradient id="vjFootScan" x1="0" x2="1"><stop offset="0" stop-color="#00FF41" stop-opacity="0"/><stop offset="0.5" stop-color="#00FF41" stop-opacity="0.25"/><stop offset="1" stop-color="#00FF41" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="110" fill="#050505"/>
+<line x1="0" y1="1" x2="1200" y2="1" stroke="#00E5FF" stroke-opacity="0.5"/>
+<rect x="-200" y="0" width="200" height="110" fill="url(#vjFootScan)"><animate attributeName="x" from="-200" to="1200" dur="6s" repeatCount="indefinite"/></rect>
+<text x="600" y="50" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="18" fill="#E0FFE8">&gt; session.close() // stay curious, stay secure</text>
+<text x="600" y="80" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="13" fill="#8B9A90">CYBERPUNK // DIGITAL GHOST</text>
+</svg>

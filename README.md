@@ -1,84 +1,70 @@
-<div align="center">
-  <img src="assets/cyberpunk-hero.svg" alt="Vaaranan J — Cybersecurity Enthusiast. Cyberpunk security command center banner." width="100%" />
-</div>
-
-<h3 align="center">Securing systems. Investigating threats. Building resilient networks.</h3>
-
 <p align="center">
-  <a href="https://vaaranan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B" alt="Portfolio" /></a>
-  <a href="https://github.com/Vaaranan-Jeyashankar"><img src="https://img.shields.io/badge/GITHUB-FF1744?style=for-the-badge&labelColor=03060B" alt="GitHub" /></a>
+  <img src="./assets/cyberpunk-hero.svg" alt="Vaaranan Jeyashankar — Cybersecurity Undergraduate" width="100%" />
 </p>
 
----
+## `01 // OPERATOR PROFILE`
 
-## `> whoami`
+> Information Technology undergraduate pursuing a **BSc (Hons) in Information Technology, specialising in Cyber Security**.
 
-I'm **Vaaranan J**, a cybersecurity-focused IT undergraduate — BSc (Hons) in Information Technology specialising in Cyber Security — and an aspiring **SOC Analyst**. I focus on blue team defense, network security, threat detection and secure application development, and I build practical security projects that make complex defense concepts clear and usable.
+I'm passionate about **Blue Team operations, ethical hacking, network security and vulnerability assessment**. I keep sharpening my practical skills and am working towards a career as a **SOC Analyst / Cybersecurity Analyst**.
 
-Open to **internship and collaboration** opportunities.
+## `02 // SECURITY ARSENAL`
 
-<div align="center">
-  <img src="assets/jarvis-avatar.svg" alt="Decorative holographic AI assistant greeting visitors. Artwork only, not a functional assistant." width="100%" />
-</div>
+| Category | Skills & Tools |
+|---|---|
+| 🛡️ **Security Operations** | Vulnerability Assessment · Security Analysis · Wireshark |
+| 🌐 **Network Security** | Cisco Packet Tracer · ACLs · Zone-Based Firewall · Port Security · RADIUS · TACACS+ · DHCP Snooping · Dynamic ARP Inspection · IPsec VPN |
+| 🕵️ **Ethical Hacking** | Web Application Security Testing · Burp Suite · OWASP ZAP · ExifTool |
+| ⚙️ **DevSecOps** | SAST · Secure Coding · Semgrep · Trivy · Gitleaks · npm audit · GitHub Actions · Docker |
+| 💻 **Programming** | Python · JavaScript · Node.js · PostgreSQL · SQLite |
+| 🧰 **Tools** | Git · GitHub · Docker |
 
-## `> ./dashboard --profile`
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-050505?style=for-the-badge&logo=githubactions&logoColor=BC13FE" />
+  <img src="https://img.shields.io/badge/Cisco-050505?style=for-the-badge&logo=cisco&logoColor=00E5FF" />
+</p>
 
-> Profile focus areas. These are interests and learning areas, not live monitoring.
-
-| 🛡️ Security Operations | 🎯 Threat Detection | 🌐 Network Security |
-| :-- | :-- | :-- |
-| SOC workflows and blue team defense | Detection and response fundamentals | Defensive architecture, segmentation, firewalls and ACLs |
-| **🗡️ Ethical Hacking** | **🔍 Digital Forensics** | **📚 Learning & Research** |
-| Vulnerability assessment fundamentals | Digital investigation patterns | Secure design, phishing and web security awareness |
-
-## `> ls ./skills`
-
-| Category | Technologies |
-| :-- | :-- |
-| **Programming Languages** | Python · TypeScript · JavaScript |
-| **Networking** | Cisco Packet Tracer · Firewall Configuration · ACLs · Network Segmentation · VPN Security · Network Access Control |
-| **Security Tools** | Semgrep · Trivy · Gitleaks · npm audit |
-| **Operating Systems** | Linux |
-| **SIEM & Log Analysis** | Threat monitoring and investigation concepts (learning) |
-| **DevSecOps** | Git · GitHub · GitHub Actions · Docker |
-| **Web Development** | Next.js · React · Node.js · Tailwind CSS · Framer Motion |
-
-## `> ./projects --list`
+## `03 // FEATURED MISSIONS`
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td>
 
-### 🧠 Cybersecurity Awareness Quiz
-Interactive quiz app that tests cyber awareness across phishing, safe practices and digital defense fundamentals.
+### 🚩 [Solstice CTF — Capture the Flag Platform](https://github.com/IT24104133/PT_CTF)
+A cybersecurity CTF platform with hands-on challenges in web application security — **SQL injection, XXE, XSS, IDOR** — and **digital forensics**.
 
-`Next.js` `React` `TypeScript`
+`Node.js` `JavaScript` `SQLite` `Burp Suite` `ExifTool` `Git` `GitHub` `Render`
 
-[Repository](https://github.com/Vaaranan-Jeyashankar/cyber-quiz) · [Live demo](https://cyber-quiz-zeta.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ Portfolio / Security Showcase
-Personal portfolio highlighting cybersecurity, malware-detection themes, digital security awareness and defensive concepts.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-[Repository](https://github.com/Vaaranan-Jeyashankar/vaaranan) · [Live demo](https://vaaranan.vercel.app)
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-## `> git log --graph`
+**Other work:** NodeGoat DevSecOps security pipeline · Cisco Packet Tracer network security implementation · Concurrent server development
+
+## `04 // OPERATIONAL FOCUS`
+
+| Hands-on experience | Currently learning / interested in |
+|---|---|
+| Vulnerability assessment & web app testing | SOC operations & security monitoring |
+| Network defence in Cisco Packet Tracer | Threat detection |
+| SAST & DevSecOps pipelines | Incident response |
+| CTF challenge building | Digital forensics · AI-powered cybersecurity |
+
+## `05 // GITHUB ACTIVITY`
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/Vaaranan-Jeyashankar" alt="Vaaranan's real GitHub contribution chart" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaaranan-Jeyashankar&bg_color=050505&color=00FF41&line=00E5FF&point=BC13FE&area=true&hide_border=true" alt="Contribution graph" width="100%" />
 </p>
 
-## `> ./connect`
+## `06 // CONNECT`
 
-- [GitHub](https://github.com/Vaaranan-Jeyashankar)
-- [Portfolio](https://vaaranan.vercel.app)
+<p>
+  <a href="https://github.com/Vaaranan-Jeyashankar"><img src="https://img.shields.io/badge/GitHub-Vaaranan--Jeyashankar-050505?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+</p>
 
-<img src="assets/cyberpunk-footer.svg" alt="End of transmission" width="100%" />
+<p align="center">
+  <img src="./assets/terminal-footer.svg" alt="session.close() — stay curious, stay secure" width="100%" />
+</p>

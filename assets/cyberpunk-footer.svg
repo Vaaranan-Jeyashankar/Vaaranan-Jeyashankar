@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-labelledby="t"><title id="t">End of transmission — Vaaranan J</title>
-<rect width="1200" height="120" fill="#03060B"/>
-<path d="M0 60H420l20-20h320l20 20h420" fill="none" stroke="#00E5FF" stroke-opacity=".5"/>
-<path d="M0 66H430l20 20h300l20-20h430" fill="none" stroke="#FF1744" stroke-opacity=".5"/>
-<text x="600" y="70" text-anchor="middle" fill="#00E5FF" font-family="Consolas,Menlo,monospace" font-size="16" letter-spacing="6">END OF TRANSMISSION</text>
-<rect x="760" y="56" width="10" height="16" fill="#00E5FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-<text x="600" y="104" text-anchor="middle" fill="#5A7A90" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="3">STAY VIGILANT · DEFEND · LEARN</text>
-</svg>
