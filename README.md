@@ -40,6 +40,9 @@ I'm passionate about **Blue Team operations, ethical hacking, network security a
 ### 🚩 [Solstice CTF — Capture the Flag Platform](https://github.com/IT24104133/PT_CTF)
 A cybersecurity CTF platform with hands-on challenges in web application security — **SQL injection, XXE, XSS, IDOR** — and **digital forensics**.
 
+  <a href="https://solstice-ctf-production-937c.up.railway.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B" alt="CTF-Play_Box" /></a>
+
+
 `Node.js` `JavaScript` `SQLite` `Burp Suite` `ExifTool` `Git` `GitHub` `Render`
 
 </td></tr>
