@@ -1,193 +1,257 @@
 
-<!-- ===================================================== -->
-<!--                 OPERATOR PROFILE                       -->
-<!-- ===================================================== -->
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="./assets/cyberpunk-hero.svg"
-       alt="Vaaranan Jeyashankar — Cybersecurity"
-       width="100%" />
+  <img width="100%"
+  src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:03060B,40:071A24,100:160B2B&text=VAARANAN%20JEYASHANKAR&fontColor=00E5FF&fontSize=42&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20%2F%2F%20SOC&descAlignY=62&descColor=00FF41&animation=twinkling"/>
 </p>
 
-<h1 align="center">Vaaranan Jeyashankar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=INITIALIZING+SECURITY+OPERATOR...;BLUE+TEAM+%7C+THREAT+DETECTION;NETWORK+DEFENCE+%7C+DEVSECOPS;ANALYSE.+DETECT.+DEFEND.;ACCESS+GRANTED+%3E_"
+  alt="Animated operator terminal"/>
+</p>
 
-<h3 align="center">
-  Cybersecurity Undergraduate | Blue Team | SOC Analyst Aspirant
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=flat-square&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/ROLE-SOC_ANALYST_ASPIRANT-00E5FF?style=flat-square&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/FOCUS-BLUE_TEAM-BC13FE?style=flat-square&labelColor=03060B"/>
+</p>
 
 <p align="center">
   <a href="https://vaaranan.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B" />
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00E5FF?style=for-the-badge&labelColor=03060B"/>
   </a>
   <a href="https://github.com/Vaaranan-Jeyashankar">
-    <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=03060B" />
-  </a>
-  <a href="https://github.com/Vaaranan-Jeyashankar?tab=achievements">
-    <img src="https://img.shields.io/badge/ACHIEVEMENTS-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=03060B" />
+    <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&labelColor=03060B"/>
   </a>
 </p>
 
 ---
 
-## `01 // OPERATOR PROFILE`
+<!-- ===================== OPERATOR ===================== -->
 
-Information Technology undergraduate pursuing a **BSc (Hons) in Information Technology, specialising in Cyber Security**.
+<h2 align="center">◈ 01 / OPERATOR IDENTITY</h2>
 
-Passionate about **Blue Team operations, Security Operations Centre (SOC), ethical hacking, network security and vulnerability assessment**.
+```yaml
+OPERATOR:
+  name: Vaaranan Jeyashankar
+  designation: Cybersecurity Undergraduate
+  degree: BSc (Hons) Information Technology
+  specialization: Cyber Security
 
-Focused on developing practical cybersecurity skills through hands-on labs, security projects, CTF challenges and defensive security implementations.
+  mission:
+    - Blue Team Operations
+    - Security Operations Centre
+    - Network Security
+    - Ethical Hacking
+    - Vulnerability Assessment
 
-**Career Objective:** SOC Analyst | Cybersecurity Analyst
+  career_target:
+    - SOC Analyst
+    - Cybersecurity Analyst
 
----
-
-## `02 // SECURITY ARSENAL`
-
-| Domain | Skills & Technologies |
-|:---|:---|
-| 🛡️ Security Operations | Vulnerability Assessment, Security Analysis, Wireshark, Threat Detection |
-| 🌐 Network Security | Cisco Packet Tracer, ACLs, Zone-Based Firewall, Port Security, RADIUS, TACACS+, DHCP Snooping, DAI, IPsec VPN |
-| 🔍 Web Security | Web Application Security Testing, Burp Suite, OWASP ZAP, SQL Injection, XSS, IDOR |
-| ⚙️ DevSecOps | SAST, Secure Coding, Semgrep, Trivy, Gitleaks, npm audit, GitHub Actions |
-| 💻 Programming | Python, JavaScript, Node.js, PostgreSQL, SQLite |
-| 🧰 Infrastructure & Tools | Git, GitHub, Docker, Linux |
-
-### Technology Stack
+  current_mode: LEARNING_AND_BUILDING
+```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-050505?style=for-the-badge&logo=githubactions&logoColor=BC13FE" />
-  <img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Cisco-050505?style=for-the-badge&logo=cisco&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Semgrep-050505?style=for-the-badge&logoColor=00FF41" />
+  <i>"Think like an attacker. Defend like an operator."</i>
 </p>
 
 ---
 
-## `03 // FEATURED MISSIONS`
+<!-- ===================== ARSENAL ===================== -->
 
-### 🚩 Mission 01 — Solstice CTF
+<h2 align="center">◈ 02 / SECURITY ARSENAL</h2>
+
+<h3 align="center">DEFENSIVE SECURITY</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,python,bash&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-00E5FF?style=flat-square&logo=wireshark&logoColor=white&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/SIEM-00FF41?style=flat-square&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/Threat_Analysis-BC13FE?style=flat-square&labelColor=03060B"/>
+</p>
+
+<h3 align="center">NETWORK DEFENCE</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CISCO-00E5FF?style=for-the-badge&logo=cisco&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/ACL-00FF41?style=for-the-badge&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/IPsec_VPN-BC13FE?style=for-the-badge&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/RADIUS-00E5FF?style=for-the-badge&labelColor=03060B"/>
+</p>
+
+<h3 align="center">APPLICATION SECURITY</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,postgres,sqlite&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-00FF41?style=flat-square&logo=burpsuite&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00E5FF?style=flat-square&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/Semgrep-BC13FE?style=flat-square&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/Trivy-00FF41?style=flat-square&labelColor=03060B"/>
+  <img src="https://img.shields.io/badge/Gitleaks-00E5FF?style=flat-square&labelColor=03060B"/>
+</p>
+
+---
+
+<!-- ===================== MISSIONS ===================== -->
+
+<h2 align="center">◈ 03 / CLASSIFIED MISSIONS</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚩 SOLSTICE CTF</h3>
 
 **Capture the Flag Platform**
 
-A cybersecurity CTF platform featuring practical challenges in web application security and digital forensics.
+Hands-on cybersecurity challenge platform.
 
-**Key areas:**
 - SQL Injection
-- XML External Entity (XXE)
-- Cross-Site Scripting (XSS)
-- Insecure Direct Object References (IDOR)
-- EXIF Metadata Analysis
+- XXE
+- XSS
+- IDOR
+- Digital Forensics
 
-<p>
-  <a href="https://github.com/IT24104133/PT_CTF">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-00FF41?style=for-the-badge&logo=github&labelColor=03060B" />
-  </a>
-  <a href="https://solstice-ctf-production-937c.up.railway.app/">
-    <img src="https://img.shields.io/badge/PLAY_CTF-00E5FF?style=for-the-badge&labelColor=03060B" />
-  </a>
-</p>
+<a href="https://github.com/IT24104133/PT_CTF">
+SOURCE CODE ↗
+</a>
 
-`Node.js` `JavaScript` `SQLite` `Burp Suite` `ExifTool` `Git`
+</td>
+<td width="50%" valign="top">
 
-### 🛡️ Mission 02 — NodeGoat DevSecOps
+<h3>🛡️ NODEGOAT DEVSECOPS</h3>
 
-**Application Security & Secure Development**
+**Application Security**
 
-Worked on application security improvements and DevSecOps integration.
+DevSecOps security pipeline and secure coding.
 
-**Key areas:**
-- Static Application Security Testing (SAST)
-- Semgrep security scanning
-- Secure coding practices
-- Trivy vulnerability scanning
-- Gitleaks secret detection
-- npm dependency auditing
-- GitHub Actions CI/CD
+- Semgrep SAST
+- Trivy scanning
+- Gitleaks
+- npm audit
+- GitHub Actions
 
-`Node.js` `Semgrep` `Trivy` `Gitleaks` `Docker` `GitHub Actions`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Mission 03 — Cisco Network Security
+<h3>🌐 NETWORK DEFENCE</h3>
 
-**Network Defence Implementation**
+**Cisco Packet Tracer**
 
-Implemented network security controls using Cisco Packet Tracer.
+Layered network security implementation.
 
-**Key areas:**
 - Zone-Based Firewall
-- Access Control Lists (ACLs)
 - Port Security
-- RADIUS & TACACS+
+- RADIUS / TACACS+
 - DHCP Snooping
 - Dynamic ARP Inspection
 - IPsec VPN
 
-`Cisco Packet Tracer` `Networking` `Network Defence`
+</td>
+<td width="50%" valign="top">
 
-### ⚙️ Mission 04 — Concurrent Server
+<h3>⚙️ CONCURRENT SERVER</h3>
 
-Developed a concurrent server project focusing on network communication and handling multiple client connections.
+**Network Programming**
 
-`Python` `Networking` `Socket Programming`
+Concurrent client-server development.
 
----
+- Socket Programming
+- Network Communication
+- Multiple Client Handling
 
-## `04 // OPERATIONAL FOCUS`
-
-| Hands-on Experience | Currently Learning / Interested In |
-|:---|:---|
-| Vulnerability Assessment | SOC Operations |
-| Web Application Security Testing | Security Monitoring |
-| Cisco Network Defence | Threat Detection |
-| SAST & DevSecOps Pipelines | Incident Response |
-| CTF Challenge Development | Digital Forensics |
-| Network Security | AI-powered Cybersecurity |
+</td>
+</tr>
+</table>
 
 ---
 
-## `05 // GITHUB INTELLIGENCE`
+<!-- ===================== OPERATIONAL FOCUS ===================== -->
+
+<h2 align="center">◈ 04 / CURRENT OPERATIONS</h2>
+
+```text
+[01] SOC OPERATIONS          >>> LEARNING
+[02] THREAT DETECTION        >>> DEVELOPING
+[03] INCIDENT RESPONSE       >>> EXPLORING
+[04] NETWORK DEFENCE         >>> PRACTISING
+[05] DEVSECOPS               >>> BUILDING
+[06] DIGITAL FORENSICS       >>> EXPLORING
+```
+
+---
+
+<!-- ===================== GITHUB INTELLIGENCE ===================== -->
+
+<h2 align="center">◈ 05 / GITHUB INTELLIGENCE</h2>
 
 <p align="center">
-  <a href="https://github.com/Vaaranan-Jeyashankar">
-    <img src="https://gitshine.com/card/Vaaranan-Jeyashankar?theme=night"
-         width="100%"
-         alt="GitHub contribution and activity statistics" />
+  <img width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Vaaranan-Jeyashankar&show_icons=true&hide_border=true&bg_color=03060B&title_color=00E5FF&icon_color=00FF41&text_color=FFFFFF&ring_color=BC13FE"/>
+  <img width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaaranan-Jeyashankar&layout=compact&hide_border=true&bg_color=03060B&title_color=00E5FF&text_color=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img width="75%"
+  src="https://streak-stats.demolab.com?user=Vaaranan-Jeyashankar&theme=dark&hide_border=true&background=03060B&ring=00E5FF&fire=00FF41&currStreakLabel=00E5FF"/>
+</p>
+
+<p align="center">
+  <img width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Vaaranan-Jeyashankar&bg_color=03060B&color=00E5FF&line=00FF41&point=BC13FE&area=true&hide_border=true"/>
+</p>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+<h2 align="center">◈ 06 / ACHIEVEMENT DATABASE</h2>
+
+<p align="center">
+  <a href="https://github.com/Vaaranan-Jeyashankar?tab=achievements">
+    <img src="https://img.shields.io/badge/VIEW_GITHUB_ACHIEVEMENTS-BC13FE?style=for-the-badge&logo=github&labelColor=03060B"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Vaaranan-Jeyashankar?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-00E5FF?style=for-the-badge&labelColor=03060B" />
-  </a>
-  <a href="https://github.com/Vaaranan-Jeyashankar?tab=achievements">
-    <img src="https://img.shields.io/badge/VIEW_ACHIEVEMENTS-BC13FE?style=for-the-badge&labelColor=03060B" />
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00E5FF?style=for-the-badge&labelColor=03060B"/>
   </a>
 </p>
 
 ---
 
-## `06 // CONNECT WITH THE OPERATOR`
+<!-- ===================== CONTACT ===================== -->
+
+<h2 align="center">◈ 07 / ESTABLISH CONNECTION</h2>
 
 <p align="center">
   <a href="https://github.com/Vaaranan-Jeyashankar">
-    <img src="https://img.shields.io/badge/GitHub-Vaaranan--Jeyashankar-050505?style=for-the-badge&logo=github&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&labelColor=03060B"/>
   </a>
   <a href="https://vaaranan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=03060B" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&labelColor=03060B"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Building skills. Analysing threats. Strengthening defence.</i>
+  <img width="100%"
+  src="https://capsule-render.vercel.app/api?type=shark&height=120&color=0:160B2B,50:071A24,100:03060B&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-footer.svg"
-       alt="session.close() — stay curious, stay secure"
-       width="100%" />
+  <code>SESSION.STATUS = ACTIVE</code>
+  <br/>
+  <sub>STAY CURIOUS // STAY SECURE // KEEP BUILDING</sub>
 </p>
